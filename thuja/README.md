@@ -6,7 +6,7 @@
 
 <br>
 
-### 🌐 [verywhiteguy.github.io/tools/thuja/](https://verywhiteguy.github.io/tools/thuja/)
+### 🌐 [SimplerMachines.github.io/tools/thuja/](https://SimplerMachines.github.io/tools/thuja/)
 
 <br>
 
